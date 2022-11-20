@@ -1,4 +1,4 @@
-### Main Area of Expertise
+### Field of Interest
 Deep Learning, Computer Vision, Algorithmic Bias Mitigation
 
 ### Programming languages
