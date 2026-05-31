@@ -5,7 +5,6 @@ Deep Learning, Computer Vision, Algorithmic Bias Mitigation
 Python, Rust, Lua
 
 ### Links
-🐘: <a rel="me" href="https://twingyeo.kr/@prixt">https://twingyeo.kr/@prixt</a>
 
 <!--
 **prixt/prixt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
