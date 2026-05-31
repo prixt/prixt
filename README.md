@@ -4,8 +4,6 @@ Deep Learning, Computer Vision, Algorithmic Bias Mitigation
 ### Programming languages
 Python, Rust, Lua
 
-### Links
-
 <!--
 **prixt/prixt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
